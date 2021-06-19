@@ -6,11 +6,11 @@
 
 Game FPS menggunakan Unity3D
 
-## Requirement
+## Persyaratan
 
 [Unity 2020.3.4f1 (LTS)](https://unity.cn/release-notes/lts/2020/2020.3.4f1)
 
-## Game logic and functionality
+## Logic dan Fungsionalitas Game
 
 * Panel Login
   * Masukkan **player name** dan **room name** yang kamu ingin bergabung
