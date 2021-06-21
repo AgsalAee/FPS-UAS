@@ -4,7 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Template from jarvis](https://img.shields.io/badge/Hi-Jarvis-ff69b4.svg)](https://github.com/Armour/Jarvis)
 
-Game FPS menggunakan Unity3D
+Game FPS menggunakan Unity3D Oleh
+1. Agsal Fairrohmad A.P / 1841720208
+2. Bagus Satria Putra      / 1841720146
+3. Mirza Zarqani Rayhan/ 1841720205
 
 ## Persyaratan
 
@@ -119,4 +122,5 @@ Game FPS menggunakan Unity3D
   * Murah dan mudah untuk digunakan
 
 * <img src="Images/skeleton_overview.png" style="width:110px"> </img><img src="Images/shooting.png" style="width:134px"></img> <img src="Images/jumping.png" style="width:122px"> </img><img src="Images/rotation.png" style="width:156px"></img>
+
 
